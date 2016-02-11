@@ -1,2 +1,2 @@
 # Office-Smart-Identification
-smart identifier to be used on Mozilla Indonesia Space (for identification and access + resource management)
+Smart Identifier to be used on Mozilla Space Community of Indonesia (for identification and access + resource management)
